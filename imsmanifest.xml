@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_5Uwh8fJ4R3t" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6SA9pQmbFF6" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">EG.G4.ENG.SEM2.UA.T1.S1.2</langstring>
+          <langstring xml:lang="x-none">EG.G4.ENG.SEM2.UA.T1.S1.2 Q2</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,16 +50,16 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="EG.G4.ENG.SEM2.UA.T1.S1.2_ORG">
-    <organization identifier="EG.G4.ENG.SEM2.UA.T1.S1.2_ORG">
-      <title>EG.G4.ENG.SEM2.UA.T1.S1.2</title>
-      <item identifier="المادة_مصر_أول_إعدادي_1_SCO" isvisible="true" identifierref="__5Uwh8fJ4R3t_RES">
-        <title>EG.G4.ENG.SEM2.UA.T1.S1.2</title>
+  <organizations default="EG.G4.ENG.SEM2.UA.T1.S1.2_Q2_ORG">
+    <organization identifier="EG.G4.ENG.SEM2.UA.T1.S1.2_Q2_ORG">
+      <title>EG.G4.ENG.SEM2.UA.T1.S1.2 Q2</title>
+      <item identifier="المادة_مصر_أول_إعدادي_1_SCO" isvisible="true" identifierref="__6SA9pQmbFF6_RES">
+        <title>EG.G4.ENG.SEM2.UA.T1.S1.2 Q2</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__5Uwh8fJ4R3t_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6SA9pQmbFF6_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/5rnimUMnW0M.png" />
       <file href="mobile/6gwfW6Qd9w5.png" />
